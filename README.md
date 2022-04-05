@@ -46,7 +46,7 @@ This project is license under MIT
 Made with ❤️ by Chotan Sharma
 
 ## Assets
-![screenshot](./assets/images/Screenshot.png)
+![screenshot](./assets/images/Screenshot%20.png)
 
 ## Contact
 Please  feel easy to contact me at chotansharma@yahoo.com. For more of my projects, you are aways welcome to my portfolio at https://github.com/ChotanSharma.
