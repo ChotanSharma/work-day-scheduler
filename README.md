@@ -37,7 +37,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Link to deployed app on [GitHub Page]()
+Link to deployed app on [GitHub Page](https://chotansharma.github.io/work-day-scheduler/)
 
 ## License 
 This project is license under MIT
@@ -46,7 +46,7 @@ This project is license under MIT
 Made with ❤️ by Chotan Sharma
 
 ## Assets
-![screenshot]()
-![screenshot]()
+![screenshot](./assets/images/Screenshot.png)
+
 ## Contact
 Please  feel easy to contact me at chotansharma@yahoo.com. For more of my projects, you are aways welcome to my portfolio at https://github.com/ChotanSharma.
