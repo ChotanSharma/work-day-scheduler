@@ -15,10 +15,14 @@ textarea{
   
 .jumbotron {
     text-align: center;
-    background-color: transparent;
-    color: black;
+    background-color: ghostwhite
+    color: rgb(88, 109, 57);
     border-radius: 0;
     border-bottom: 10px solid black;
+}
+
+#currentDay {
+    color: black
 }
   
 .description{
@@ -29,6 +33,10 @@ textarea{
     text-align: left;
     border-radius: 15px;
 
+}
+
+.lead {
+    color: rgb(122, 55, 55)
 }
   
 .row {

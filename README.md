@@ -1,5 +1,4 @@
 # work-day-scheduler
-# note-taking
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,6 +21,7 @@ This application is built on  third-party API and JavaScript to create a calenda
 
 ## Installation 
 To run this application, the users need to fork or download the codes.
+
 ## Usage 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -37,12 +37,14 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Link to deployed app on [GitHub]()
+Link to deployed app on [GitHub Page]()
 
 ## License 
 This project is license under MIT
+
 ## Contributor
 Made with ❤️ by Chotan Sharma
+
 ## Assets
 ![screenshot]()
 ![screenshot]()
